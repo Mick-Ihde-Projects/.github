@@ -1,6 +1,6 @@
-# Mick Ihde — Client Projects 🗂️
+# Mick Ihde — Projects 🗂️
 
-Client work by **[@DerMixer](https://github.com/DerMixer)** — web products built from concept to go-live, clean and conversion-ready.
+Client work by **[@DerMixer](https://github.com/DerMixer)** — digital products built from concept to go-live, clean, useabe and conversion-ready.
 
 → **[mickihde.de](https://www.mickihde.de)**
 
@@ -8,7 +8,7 @@ Client work by **[@DerMixer](https://github.com/DerMixer)** — web products bui
 
 ## 📁 What's in Here
 
-This organisation holds repositories for client projects — each one built from scratch, tailored to the client's needs, and delivered end-to-end.
+This organisation holds repositories for client projects — each one built to the client's needs, and delivered end-to-end.
 
 - **Websites & Landing Pages** — fast, opinionated, built to convert
 - **Digital Products** — from concept to live, no hand-holding required
@@ -29,7 +29,7 @@ All repos are private by default. If you're a client and need access, reach out.
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### Worked With on the Frontend (Queries, Server Actions etc.)
+### Possible Backend with: 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -47,5 +47,5 @@ All repos are private by default. If you're a client and need access, reach out.
 Available for new client projects. Let's build something worth looking at.
 
 - 🌐 **Portfolio:** [mickihde.de](https://www.mickihde.de)
-- 📧 **Email:** [mickihde.business@gmail.com](mailto:mickihde.business@gmail.com)
+- 📧 **Email:** [mickihde.bussiness@gmail.com](mailto:mickihde.bussiness@gmail.com)
 - 💬 **Discord:** `.dermixer`
