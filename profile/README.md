@@ -1,6 +1,6 @@
 # Mick Ihde — Projects
 
-Client work by **[@DerMixer](https://github.com/DerMixer)** — digital products built clean, useabe and conversion-ready.
+Client work by **[@DerMixer](https://github.com/DerMixer)** — Websites built clean, useabe and conversion-ready.
 
  **[mickihde.de](https://www.mickihde.de)**
 
